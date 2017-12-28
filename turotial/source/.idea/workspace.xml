@@ -16,118 +16,202 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="hero.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/hero.ts">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codecraft/8.pipes/2.built-in-pipes/script.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/app.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#58#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="heroes.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/heroes/heroes.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="160">
+              <caret line="10" column="41" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="150" selection-end-column="52" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
+                <marker date="1514431163901" expanded="true" signature="266:823" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="331:816" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="854:1339" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="915:1332" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="1370:1669" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="1396:1662" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="1700:1928" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="1765:1921" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="1960:2132" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="2030:2125" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="2163:2335" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="2233:2328" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="2366:2743" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="2434:2736" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="2774:3416" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="2840:3409" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="3165:3294" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="3170:3174" ph="&amp;lt;" />
+                <marker date="1514431163901" expanded="true" signature="3176:3180" ph="&amp;gt;" />
+                <marker date="1514431163901" expanded="true" signature="3183:3187" ph="&amp;lt;" />
+                <marker date="1514431163901" expanded="true" signature="3197:3203" ph="&amp;quot;" />
+                <marker date="1514431163901" expanded="true" signature="3238:3244" ph="&amp;quot;" />
+                <marker date="1514431163901" expanded="true" signature="3244:3248" ph="&amp;gt;" />
+                <marker date="1514431163901" expanded="true" signature="3261:3265" ph="&amp;lt;" />
+                <marker date="1514431163901" expanded="true" signature="3268:3272" ph="&amp;gt;" />
+                <marker date="1514431163901" expanded="true" signature="3273:3277" ph="&amp;lt;" />
+                <marker date="1514431163901" expanded="true" signature="3280:3284" ph="&amp;gt;" />
+                <marker date="1514431163901" expanded="true" signature="3308:3400" ph="..." />
+                <marker date="1514431163901" expanded="true" signature="3364:3390" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="heroes.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/heroes/heroes.component.html">
+      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codecraft/8.pipes/3.async-pipe/script.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hero-detail.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/hero-detail/hero-detail.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hero.service.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/toh-pt4/src/app/hero.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="544">
+              <caret line="34" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="52" />
               <folding>
-                <element signature="e#0#43#0" expanded="true" />
+                <element signature="e#0#61#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hero-detail.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/hero-detail/hero-detail.component.ts">
+      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codecraft/8.pipes/4.custom-pipes/script.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="400">
+              <caret line="25" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="52" />
               <folding>
-                <element signature="e#0#57#0" expanded="true" />
+                <element signature="e#0#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/app.component.ts">
+      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codecraft/9.forms/2.model-driven/script.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="-49">
+              <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#82#0" expanded="true" />
+                <marker date="1514431164060" expanded="true" signature="445:1534" ph="..." />
+                <marker date="1514431164060" expanded="true" signature="507:866" ph="..." />
+                <marker date="1514431164060" expanded="true" signature="536:680" ph="..." />
+                <marker date="1514431164060" expanded="true" signature="594:669" ph="..." />
+                <marker date="1514431164060" expanded="true" signature="710:852" ph="..." />
+                <marker date="1514431164060" expanded="true" signature="767:841" ph="..." />
+                <marker date="1514431164060" expanded="true" signature="895:1021" ph="..." />
+                <marker date="1514431164060" expanded="true" signature="945:1012" ph="..." />
+                <marker date="1514431164060" expanded="true" signature="1049:1184" ph="..." />
+                <marker date="1514431164060" expanded="true" signature="1105:1175" ph="..." />
+                <marker date="1514431164060" expanded="true" signature="1212:1488" ph="..." />
+                <marker date="1514431164060" expanded="true" signature="1274:1479" ph="..." />
+                <marker date="1514431164060" expanded="true" signature="1412:1465" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/app.module.ts">
+      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codecraft/9.forms/3.model-driven-validation/script.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1811">
+              <caret line="30" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="196" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#82#0" expanded="true" />
+                <marker date="1514431164094" expanded="true" signature="424:3959" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="486:1856" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="515:1259" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="768:865" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="907:1070" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="1083:1246" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="1289:1842" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="1535:1631" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="1673:1831" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="1885:2609" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="2101:2188" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="2228:2465" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="2476:2597" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="2637:3364" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="2877:2967" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="3007:3355" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="3373:3420" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="3450:3913" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="3699:3904" ph="..." />
+                <marker date="1514431164094" expanded="true" signature="3837:3890" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codecraft/9.forms/4.submitting-and-resetting/script.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2351">
+              <caret line="10" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="208" selection-end-column="52" />
+              <folding>
+                <marker date="1514431164120" expanded="true" signature="424:4067" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="516:1885" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="545:1288" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="798:895" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="937:1099" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="1112:1275" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="1318:1871" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="1564:1660" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="1702:1860" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="1914:2638" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="2130:2217" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="2257:2494" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="2505:2626" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="2666:3393" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="2906:2996" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="3036:3384" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="3402:3450" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="3480:3943" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="3729:3934" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="3867:3920" ph="..." />
+                <marker date="1514431164120" expanded="true" signature="3969:4021" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codecraft/9.forms/5.reactive-model-form/script.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="33" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codecraft/9.forms/6.template-driven/script.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <caret line="143" column="14" lean-forward="true" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
               <folding>
-                <element signature="e#0#58#0" expanded="true" />
+                <element signature="e#0#87#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jokeCom</find>
+      <find>ngIf</find>
+      <find>ng-template</find>
+      <find>template</find>
+      <find>currency</find>
+    </findStrings>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -140,6 +224,14 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/codecraft/temp.ts" />
+        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/demo/utils.ts" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -147,10 +239,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1874" />
-    <option name="height" value="1096" />
+    <option name="x" value="132" />
+    <option name="y" value="47" />
+    <option name="width" value="1639" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -167,7 +259,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,48 +269,61 @@
             <path>
               <item name="source" type="b2602c69:ProjectViewProjectNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="toh-pt4" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="source" type="b2602c69:ProjectViewProjectNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="toh-pt4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="9.forms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="source" type="b2602c69:ProjectViewProjectNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="toh-pt4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="9.forms" type="462c0819:PsiDirectoryNode" />
+              <item name="2.model-driven" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="source" type="b2602c69:ProjectViewProjectNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="toh-pt4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="hero-detail" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="9.forms" type="462c0819:PsiDirectoryNode" />
+              <item name="3.model-driven-validation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="source" type="b2602c69:ProjectViewProjectNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="toh-pt4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="heroes" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="9.forms" type="462c0819:PsiDirectoryNode" />
+              <item name="4.submitting-and-resetting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="9.forms" type="462c0819:PsiDirectoryNode" />
+              <item name="5.reactive-model-form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="9.forms" type="462c0819:PsiDirectoryNode" />
+              <item name="6.template-driven" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -227,6 +331,11 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.tslint" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\khh\git\doc-angular\turotial\source\codecraft" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -335,52 +444,105 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513657879596</updated>
-      <workItem from="1513657881317" duration="3593000" />
+      <workItem from="1513657881317" duration="3594000" />
+      <workItem from="1513843293545" duration="2963000" />
+      <workItem from="1514425421582" duration="15037000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3593000" />
+    <option name="totallyTimeSpent" value="21594000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26318622" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25364584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/11.decorators/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/temp.js" />
+        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/12.modules/utils.js" />
+        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/12.modules/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/13.types/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/4.components/3.decorator/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/4.components/3.decorator/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/4.components/4.content-projection/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/4.components/4.content-projection/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/4.components/5.lifecycle-hooks/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/4.components/5.lifecycle-hooks/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/4.components/6.viewchildren-and-contentchildren/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/4.components/6.viewchildren-and-contentchildren/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/2.ngfor/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/2.ngfor/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/3.ngif/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/3.ngif/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/4.ngstyle-and-ngclass/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/4.ngstyle-and-ngclass/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/5.ngnonbindable/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/5.ngnonbindable/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/6.structural-directives/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/6.structural-directives/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/6.custom-directives/2.creating-a-custom-directive/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/6.custom-directives/2.creating-a-custom-directive/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/6.custom-directives/3.hostlistener-and-hostbinding/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/6.custom-directives/3.hostlistener-and-hostbinding/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/6.custom-directives/4.inputs-and-configuration/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/6.custom-directives/4.inputs-and-configuration/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/7.reactive-programming-with-rxjs/4.rxjs-and-angular/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/7.reactive-programming-with-rxjs/4.rxjs-and-angular/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/8.pipes/2.built-in-pipes/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/8.pipes/2.built-in-pipes/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/8.pipes/3.async-pipe/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/8.pipes/3.async-pipe/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/8.pipes/4.custom-pipes/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/8.pipes/4.custom-pipes/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/9.forms/2.model-driven/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/9.forms/2.model-driven/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/9.forms/3.model-driven-validation/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/9.forms/3.model-driven-validation/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/9.forms/4.submitting-and-resetting/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/9.forms/4.submitting-and-resetting/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/9.forms/5.reactive-model-form/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/9.forms/5.reactive-model-form/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/9.forms/6.template-driven/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/9.forms/6.template-driven/script.js.map" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -390,7 +552,6 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/toh-pt1/src/app/heroes/heroes.component.ts</url>
-          <properties lambdaOrdinal="-1" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="1" />
@@ -398,33 +559,45 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/toh-pt0/tslint.json">
+    <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="256">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt0/src/index.html">
+    <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/heroes/heroes.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="256">
+          <caret line="18" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt0/src/environments/environment.ts">
+    <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/heroes/heroes.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="176">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toh-pt4/src/app/hero.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#0#43#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt0/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/toh-pt4/src/app/hero-detail/hero-detail.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toh-pt4/src/app/hero-detail/hero-detail.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -432,111 +605,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt0/src/main.ts">
+    <entry file="file://$PROJECT_DIR$/toh-pt4/src/app/hero-detail/hero-detail.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <element signature="e#0#47#0" expanded="false" />
+            <element signature="e#0#57#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt0/src/app/app.module.ts">
+    <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/hero-detail/hero-detail.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <caret line="14" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="e#0#58#0" expanded="false" />
+            <element signature="e#0#57#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt0/src/app/app.component.spec.ts">
+    <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/heroes/heroes.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#55#0" expanded="false" />
+            <element signature="e#0#73#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt0/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/heroes/heroes.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt0/src/app/app.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt1/src/app/heroes/heroes.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt1/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt1/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt1/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#58#0" expanded="false" />
-            <element signature="e#174#221#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt1/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#47#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt1/src/app/heroes/heroes.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="144">
+          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
           <folding>
             <element signature="e#0#50#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt1/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/hero.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="64">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/mock-heroes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/hero-detail/hero-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -549,15 +677,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt3/src/main.ts">
+    <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/heroes/heroes.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+        <state relative-caret-position="320">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/app.component.css">
+    <entry file="file://$PROJECT_DIR$/codecraft/temp.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/2.es6-typescript/10.class-interface/script.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -565,118 +701,453 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/heroes/heroes.component.ts">
+    <entry file="file://$PROJECT_DIR$/codecraft/2.es6-typescript/11.decorators/script.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="368">
+          <caret line="23" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/2.es6-typescript/12.modules/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/2.es6-typescript/12.modules/utils.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/2.es6-typescript/13.types/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/2.es6-typescript/demo/hello.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/2.es6-typescript/demo/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/2.es6-typescript/demo/types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/2.es6-typescript/demo/utils.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/4.components/3.decorator/joke-form-component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/4.components/3.decorator/joke-form-component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/4.components/3.decorator/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#73#0" expanded="false" />
+            <marker date="1514431163121" expanded="true" signature="1035:1232" ph="..." />
+            <marker date="1514431163121" expanded="true" signature="1104:1152" ph="..." />
+            <marker date="1514431163121" expanded="true" signature="1182:1225" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/4.components/4.content-projection/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="85" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#73#0" expanded="false" />
+            <marker date="1514431163169" expanded="true" signature="1035:1302" ph="..." />
+            <marker date="1514431163169" expanded="true" signature="1061:1115" ph="..." />
+            <marker date="1514431163169" expanded="true" signature="1139:1222" ph="..." />
+            <marker date="1514431163169" expanded="true" signature="1252:1295" ph="..." />
+            <marker date="1514431163169" expanded="true" signature="1511:1610" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/4.components/5.lifecycle-hooks/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="104" column="1" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="104" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#73#0" expanded="false" />
+            <marker date="1514431163199" expanded="true" signature="765:1032" ph="..." />
+            <marker date="1514431163199" expanded="true" signature="791:845" ph="..." />
+            <marker date="1514431163199" expanded="true" signature="869:952" ph="..." />
+            <marker date="1514431163199" expanded="true" signature="982:1025" ph="..." />
+            <marker date="1514431163199" expanded="true" signature="2115:2214" ph="..." />
+            <marker date="1514431163199" expanded="true" signature="2238:2316" ph="..." />
+            <marker date="1514431163199" expanded="true" signature="2341:2424" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/4.components/6.viewchildren-and-contentchildren/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="108" column="1" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="108" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#73#0" expanded="false" />
+            <marker date="1514431163225" expanded="true" signature="868:1135" ph="..." />
+            <marker date="1514431163225" expanded="true" signature="894:948" ph="..." />
+            <marker date="1514431163225" expanded="true" signature="972:1055" ph="..." />
+            <marker date="1514431163225" expanded="true" signature="1085:1128" ph="..." />
+            <marker date="1514431163225" expanded="true" signature="1317:1416" ph="..." />
+            <marker date="1514431163225" expanded="true" signature="2685:2834" ph="..." />
+            <marker date="1514431163225" expanded="true" signature="2708:2821" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/5.built-in-directives/2.ngfor/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="54" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+            <marker date="1514431163307" expanded="true" signature="257:359" ph="..." />
+            <marker date="1514431163307" expanded="true" signature="309:353" ph="..." />
+            <marker date="1514431163307" expanded="true" signature="768:899" ph="..." />
+            <marker date="1514431163307" expanded="true" signature="806:893" ph="..." />
+            <marker date="1514431163307" expanded="true" signature="851:885" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/5.built-in-directives/3.ngif/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-745">
+          <caret line="26" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
           <folding>
             <element signature="e#0#50#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/heroes/heroes.component.html">
+    <entry file="file://$PROJECT_DIR$/codecraft/5.built-in-directives/4.ngstyle-and-ngclass/script.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/mock-heroes.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/hero.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt2/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="251">
+          <caret line="100" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
           <folding>
-            <element signature="e#0#58#0" expanded="true" />
+            <element signature="e#0#50#0" expanded="false" />
+            <marker date="1514431163370" expanded="true" signature="290:435" ph="..." />
+            <marker date="1514431163370" expanded="true" signature="329:429" ph="..." />
+            <marker date="1514431163370" expanded="true" signature="1119:1326" ph="..." />
+            <marker date="1514431163370" expanded="true" signature="1269:1320" ph="..." />
+            <marker date="1514431163370" expanded="true" signature="1333:1588" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/codecraft/5.built-in-directives/5.ngnonbindable/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+            <marker date="1514431163397" expanded="true" signature="273:367" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/5.built-in-directives/6.structural-directives/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="72" column="2" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="146" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#73#0" expanded="false" />
+            <marker date="1514431163426" expanded="true" signature="1421:1684" ph="..." />
+            <marker date="1514431163426" expanded="true" signature="1447:1476" ph="..." />
+            <marker date="1514431163426" expanded="true" signature="1512:1589" ph="..." />
+            <marker date="1514431163426" expanded="true" signature="1538:1570" ph="..." />
+            <marker date="1514431163426" expanded="true" signature="1624:1677" ph="..." />
+            <marker date="1514431163426" expanded="true" signature="1833:1919" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/6.custom-directives/2.creating-a-custom-directive/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="25" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="100" selection-end-column="52" />
+          <folding>
+            <marker date="1514431163522" expanded="true" signature="951:1158" ph="..." />
+            <marker date="1514431163522" expanded="true" signature="1020:1068" ph="..." />
+            <marker date="1514431163522" expanded="true" signature="1103:1151" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/6.custom-directives/3.hostlistener-and-hostbinding/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="52" column="15" lean-forward="false" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
+          <folding>
+            <marker date="1514431163561" expanded="true" signature="1393:1521" ph="..." />
+            <marker date="1514431163561" expanded="true" signature="1462:1514" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/6.custom-directives/4.inputs-and-configuration/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="49" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#73#0" expanded="false" />
+            <marker date="1514431163588" expanded="true" signature="1489:1667" ph="..." />
+            <marker date="1514431163588" expanded="true" signature="1608:1660" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/7.reactive-programming-with-rxjs/3.observables-and-rxjs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/heroes/heroes.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/heroes/heroes.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/hero-detail/hero-detail.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt3/src/app/hero-detail/hero-detail.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toh-pt4/src/app/hero.service.ts">
+    <entry file="file://$PROJECT_DIR$/codecraft/7.reactive-programming-with-rxjs/4.rxjs-and-angular/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/7.reactive-programming-with-rxjs/3.observables-and-rxjs/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/7.reactive-programming-with-rxjs/4.rxjs-and-angular/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="43" column="37" lean-forward="true" selection-start-line="43" selection-start-column="37" selection-end-line="44" selection-end-column="40" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#0#50#0" expanded="false" />
+            <marker date="1514431163725" expanded="true" signature="376:1627" ph="..." />
+            <marker date="1514431163725" expanded="true" signature="471:538" ph="..." />
+            <marker date="1514431163725" expanded="true" signature="648:940" ph="..." />
+            <marker date="1514431163725" expanded="true" signature="725:799" ph="..." />
+            <marker date="1514431163725" expanded="true" signature="840:931" ph="..." />
+            <marker date="1514431163725" expanded="true" signature="990:1160" ph="..." />
+            <marker date="1514431163725" expanded="true" signature="1049:1151" ph="..." />
+            <marker date="1514431163725" expanded="true" signature="1211:1506" ph="..." />
+            <marker date="1514431163725" expanded="true" signature="1281:1385" ph="..." />
+            <marker date="1514431163725" expanded="true" signature="1426:1497" ph="..." />
+            <marker date="1514431163725" expanded="true" signature="1532:1619" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/8.pipes/2.built-in-pipes/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="150" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <marker date="1514431163901" expanded="true" signature="266:823" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="331:816" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="854:1339" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="915:1332" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="1370:1669" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="1396:1662" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="1700:1928" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="1765:1921" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="1960:2132" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="2030:2125" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="2163:2335" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="2233:2328" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="2366:2743" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="2434:2736" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="2774:3416" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="2840:3409" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="3165:3294" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="3170:3174" ph="&amp;lt;" />
+            <marker date="1514431163901" expanded="true" signature="3176:3180" ph="&amp;gt;" />
+            <marker date="1514431163901" expanded="true" signature="3183:3187" ph="&amp;lt;" />
+            <marker date="1514431163901" expanded="true" signature="3197:3203" ph="&amp;quot;" />
+            <marker date="1514431163901" expanded="true" signature="3238:3244" ph="&amp;quot;" />
+            <marker date="1514431163901" expanded="true" signature="3244:3248" ph="&amp;gt;" />
+            <marker date="1514431163901" expanded="true" signature="3261:3265" ph="&amp;lt;" />
+            <marker date="1514431163901" expanded="true" signature="3268:3272" ph="&amp;gt;" />
+            <marker date="1514431163901" expanded="true" signature="3273:3277" ph="&amp;lt;" />
+            <marker date="1514431163901" expanded="true" signature="3280:3284" ph="&amp;gt;" />
+            <marker date="1514431163901" expanded="true" signature="3308:3400" ph="..." />
+            <marker date="1514431163901" expanded="true" signature="3364:3390" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/8.pipes/3.async-pipe/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/8.pipes/4.custom-pipes/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/9.forms/2.model-driven/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#82#0" expanded="true" />
+            <marker date="1514431164060" expanded="true" signature="445:1534" ph="..." />
+            <marker date="1514431164060" expanded="true" signature="507:866" ph="..." />
+            <marker date="1514431164060" expanded="true" signature="536:680" ph="..." />
+            <marker date="1514431164060" expanded="true" signature="594:669" ph="..." />
+            <marker date="1514431164060" expanded="true" signature="710:852" ph="..." />
+            <marker date="1514431164060" expanded="true" signature="767:841" ph="..." />
+            <marker date="1514431164060" expanded="true" signature="895:1021" ph="..." />
+            <marker date="1514431164060" expanded="true" signature="945:1012" ph="..." />
+            <marker date="1514431164060" expanded="true" signature="1049:1184" ph="..." />
+            <marker date="1514431164060" expanded="true" signature="1105:1175" ph="..." />
+            <marker date="1514431164060" expanded="true" signature="1212:1488" ph="..." />
+            <marker date="1514431164060" expanded="true" signature="1274:1479" ph="..." />
+            <marker date="1514431164060" expanded="true" signature="1412:1465" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/9.forms/3.model-driven-validation/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1811">
+          <caret line="30" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="196" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#82#0" expanded="true" />
+            <marker date="1514431164094" expanded="true" signature="424:3959" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="486:1856" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="515:1259" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="768:865" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="907:1070" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="1083:1246" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="1289:1842" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="1535:1631" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="1673:1831" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="1885:2609" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="2101:2188" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="2228:2465" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="2476:2597" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="2637:3364" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="2877:2967" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="3007:3355" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="3373:3420" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="3450:3913" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="3699:3904" ph="..." />
+            <marker date="1514431164094" expanded="true" signature="3837:3890" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/9.forms/4.submitting-and-resetting/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2351">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="208" selection-end-column="52" />
+          <folding>
+            <marker date="1514431164120" expanded="true" signature="424:4067" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="516:1885" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="545:1288" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="798:895" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="937:1099" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="1112:1275" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="1318:1871" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="1564:1660" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="1702:1860" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="1914:2638" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="2130:2217" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="2257:2494" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="2505:2626" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="2666:3393" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="2906:2996" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="3036:3384" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="3402:3450" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="3480:3943" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="3729:3934" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="3867:3920" ph="..." />
+            <marker date="1514431164120" expanded="true" signature="3969:4021" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/9.forms/5.reactive-model-form/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/9.forms/6.template-driven/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="143" column="14" lean-forward="true" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#87#0" expanded="true" />
           </folding>
         </state>
       </provider>
