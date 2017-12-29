@@ -37,16 +37,28 @@ import {OpaqueToken} from '@angular/core';
 
 }
 
-//  Child Injector Forwards Request to Parent
+//  Child Injector Forwards Request to Parent 1
 {
-  console.log("Child Injector Forwards Request to Parent");
-  class EmailService {
-  }
+    console.log("Child Injector Forwards Request to Parent");
+    class EmailService {
+    }
 
-  let injector = ReflectiveInjector.resolveAndCreate([EmailService]);
-  let childInjector = injector.resolveAndCreateChild([]);
+    let injector = ReflectiveInjector.resolveAndCreate([EmailService]);
+    let childInjector = injector.resolveAndCreateChild([EmailService]);
 
-  console.log(injector.get(EmailService) === childInjector.get(EmailService)); // true
+    console.log(injector.get(EmailService) === childInjector.get(EmailService)); // false
+}
+
+//  Child Injector Forwards Request to Parent 2
+{
+    console.log("Child Injector Forwards Request to Parent");
+    class EmailService {
+    }
+
+    let injector = ReflectiveInjector.resolveAndCreate([EmailService]);
+    let childInjector = injector.resolveAndCreateChild([]);
+
+    console.log(injector.get(EmailService) === childInjector.get(EmailService)); // true
 }
 
 //  Child Injector Returns Different Instance
