@@ -12,143 +12,61 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/6.comparison/script.ts">
+        <entry file="file://$PROJECT_DIR$/codecraft/14.advanced-topics/2.configurable-custom-validators/model-driven/script.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="25" column="2" lean-forward="false" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+            <state relative-caret-position="1050">
+              <caret line="70" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="225" selection-end-column="52" />
               <folding>
-                <element signature="e#0#64#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codecraft/11.http/2.core-http-api/script.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="93" column="10" lean-forward="false" selection-start-line="93" selection-start-column="10" selection-end-line="93" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codecraft/11.http/3.http-example-promise/script.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-689">
-              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codecraft/11.http/4.http-with-observables/script.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#62#0" expanded="true" />
-                <marker date="1514431161708" expanded="true" signature="1455:1641" ph="..." />
-                <marker date="1514431161708" expanded="true" signature="1482:1633" ph="..." />
-                <marker date="1514431161708" expanded="true" signature="1508:1624" ph="..." />
-                <marker date="1514431161708" expanded="true" signature="1668:1724" ph="..." />
-                <marker date="1514431161708" expanded="true" signature="1749:1953" ph="..." />
-                <marker date="1514431161708" expanded="true" signature="1780:1947" ph="..." />
-                <marker date="1514431161708" expanded="true" signature="1884:1939" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codecraft/11.http/5.jsonp-with-observables/script.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="92" column="12" lean-forward="false" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codecraft/12.routing/2.route-configuration/script.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1281">
-              <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#62#0" expanded="true" />
-                <marker date="1514431161814" expanded="true" signature="1722:2013" ph="..." />
-                <marker date="1514431161814" expanded="true" signature="1749:1880" ph="..." />
-                <marker date="1514431161814" expanded="true" signature="1775:1871" ph="..." />
-                <marker date="1514431161814" expanded="true" signature="1905:2005" ph="..." />
-                <marker date="1514431161814" expanded="true" signature="2048:2109" ph="..." />
-                <marker date="1514431161814" expanded="true" signature="2067:2102" ph="..." />
-                <marker date="1514431161814" expanded="true" signature="2135:2369" ph="..." />
-                <marker date="1514431161814" expanded="true" signature="2150:2362" ph="..." />
-                <marker date="1514431161814" expanded="true" signature="2683:2737" ph="..." />
-                <marker date="1514431161814" expanded="true" signature="2864:3135" ph="..." />
-                <marker date="1514431161814" expanded="true" signature="2951:3128" ph="..." />
-                <marker date="1514431161814" expanded="true" signature="2984:3038" ph="..." />
-                <marker date="1514431161814" expanded="true" signature="3064:3120" ph="..." />
-                <marker date="1514431161814" expanded="true" signature="3262:3307" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codecraft/12.routing/3.navigation/script.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="23" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="188" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codecraft/12.routing/5.nested-routes/script.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="30" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="319" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#62#0" expanded="true" />
+                <element signature="e#0#82#0" expanded="true" />
+                <marker date="1514596341000" expanded="true" signature="1301:4680" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="1363:2555" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="1392:1958" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="1645:1742" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="1784:1946" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="1988:2541" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="2234:2330" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="2372:2530" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="2584:3388" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="2800:2887" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="2927:3378" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="3416:4143" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="3656:3746" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="3786:4134" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="4171:4634" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="4420:4625" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="4558:4611" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="script.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codecraft/12.routing/6.router-guards/script.ts">
+        <entry file="file://$PROJECT_DIR$/codecraft/14.advanced-topics/2.configurable-custom-validators/template-driven/script.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+            <state relative-caret-position="375">
+              <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
               <folding>
-                <element signature="e#0#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codecraft/12.routing/4.parameterised-routes/script.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="164" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="201" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#62#0" expanded="true" />
+                <element signature="e#0#126#0" expanded="true" />
+                <marker date="1514596341000" expanded="true" signature="3028:6413" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="3109:4344" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="3136:3727" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="3378:3526" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="3565:3718" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="3755:4331" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="3990:4135" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="4174:4322" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="4372:5253" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="4583:4787" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="4825:5245" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="5281:5956" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="5515:5678" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="5716:5948" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="5983:6266" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="6041:6258" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="6199:6246" ph="..." />
+                <marker date="1514596341000" expanded="true" signature="6291:6373" ph="..." />
               </folding>
             </state>
           </provider>
@@ -173,6 +91,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/2.injectors/script.ts" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/3.classes/app/auth.service.spec.ts" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/login.component.spec.alternatives.ts" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/7.asynchronous/app/login.component.ts" />
       </list>
     </option>
   </component>
@@ -182,11 +103,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="132" />
-    <option name="y" value="47" />
-    <option name="width" value="1639" />
-    <option name="height" value="1044" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -203,7 +123,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,50 +141,238 @@
               <item name="source" type="b2602c69:ProjectViewProjectNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-              <item name="12.routing" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="source" type="b2602c69:ProjectViewProjectNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-              <item name="12.routing" type="462c0819:PsiDirectoryNode" />
-              <item name="2.route-configuration" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="2.jasmine-and-karma" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="source" type="b2602c69:ProjectViewProjectNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-              <item name="12.routing" type="462c0819:PsiDirectoryNode" />
-              <item name="3.navigation" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="3.classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="source" type="b2602c69:ProjectViewProjectNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-              <item name="12.routing" type="462c0819:PsiDirectoryNode" />
-              <item name="4.parameterised-routes" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="3.classes" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="source" type="b2602c69:ProjectViewProjectNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-              <item name="12.routing" type="462c0819:PsiDirectoryNode" />
-              <item name="5.nested-routes" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="4.mocks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="source" type="b2602c69:ProjectViewProjectNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-              <item name="12.routing" type="462c0819:PsiDirectoryNode" />
-              <item name="6.router-guards" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="4.mocks" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="5.atb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="5.atb" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="6.change-detection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="6.change-detection" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="7.asynchronous" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="7.asynchronous" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="8.dependency-injection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="8.dependency-injection" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="9.components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="9.components" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="10.directives" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="10.directives" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="11.model-forms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="11.model-forms" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="12.http-and-jsonp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="12.http-and-jsonp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="13.routing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="13.unit-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="13.routing" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="14.advanced-topics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="14.advanced-topics" type="462c0819:PsiDirectoryNode" />
+              <item name="1.custom-validators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="14.advanced-topics" type="462c0819:PsiDirectoryNode" />
+              <item name="1.custom-validators" type="462c0819:PsiDirectoryNode" />
+              <item name="model-driven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="14.advanced-topics" type="462c0819:PsiDirectoryNode" />
+              <item name="1.custom-validators" type="462c0819:PsiDirectoryNode" />
+              <item name="template-driven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="14.advanced-topics" type="462c0819:PsiDirectoryNode" />
+              <item name="2.configurable-custom-validators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="14.advanced-topics" type="462c0819:PsiDirectoryNode" />
+              <item name="2.configurable-custom-validators" type="462c0819:PsiDirectoryNode" />
+              <item name="model-driven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="14.advanced-topics" type="462c0819:PsiDirectoryNode" />
+              <item name="2.configurable-custom-validators" type="462c0819:PsiDirectoryNode" />
+              <item name="template-driven" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -272,6 +381,8 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.tslint" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -382,136 +493,135 @@
       <option name="presentableId" value="Default" />
       <updated>1514509375171</updated>
       <workItem from="1514509380039" duration="5406000" />
+      <workItem from="1514684763515" duration="3771000" />
+      <workItem from="1514689001489" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5406000" />
+    <option name="totallyTimeSpent" value="9185000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2777778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/codecraft/temp.js" />
-        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/demo/class.js" />
-        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/demo/hello.js" />
-        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/demo/types.js" />
-        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/demo/utils.js" />
-        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/demo/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/demo/decorator.js" />
-        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/13.types/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/12.modules/utils.js" />
-        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/12.modules/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/11.decorators/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/2.es6-typescript/10.class-interface/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/4.components/3.decorator/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/4.components/3.decorator/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/4.components/5.lifecycle-hooks/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/4.components/5.lifecycle-hooks/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/4.components/4.content-projection/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/4.components/4.content-projection/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/4.components/6.viewchildren-and-contentchildren/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/4.components/6.viewchildren-and-contentchildren/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/3.ngif/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/3.ngif/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/2.ngfor/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/2.ngfor/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/5.ngnonbindable/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/5.ngnonbindable/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/4.ngstyle-and-ngclass/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/4.ngstyle-and-ngclass/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/6.structural-directives/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/5.built-in-directives/6.structural-directives/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/6.custom-directives/4.inputs-and-configuration/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/6.custom-directives/4.inputs-and-configuration/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/6.custom-directives/2.creating-a-custom-directive/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/6.custom-directives/2.creating-a-custom-directive/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/6.custom-directives/3.hostlistener-and-hostbinding/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/6.custom-directives/3.hostlistener-and-hostbinding/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/7.reactive-programming-with-rxjs/4.rxjs-and-angular/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/7.reactive-programming-with-rxjs/4.rxjs-and-angular/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/8.pipes/3.async-pipe/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/8.pipes/3.async-pipe/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/8.pipes/4.custom-pipes/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/8.pipes/4.custom-pipes/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/8.pipes/2.built-in-pipes/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/8.pipes/2.built-in-pipes/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/9.forms/2.model-driven/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/9.forms/2.model-driven/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/9.forms/6.template-driven/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/9.forms/6.template-driven/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/9.forms/5.reactive-model-form/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/9.forms/5.reactive-model-form/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/9.forms/3.model-driven-validation/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/9.forms/3.model-driven-validation/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/9.forms/4.submitting-and-resetting/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/9.forms/4.submitting-and-resetting/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/2.injectors/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/2.injectors/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/3.providers/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/3.providers/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/4.tokens/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/4.tokens/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/5.configuring/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/5.configuring/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/6.comparison/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/6.comparison/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/11.http/2.core-http-api/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/11.http/2.core-http-api/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/11.http/3.http-example-promise/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/11.http/3.http-example-promise/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/11.http/4.http-with-observables/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/11.http/4.http-with-observables/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/11.http/5.jsonp-with-observables/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/11.http/5.jsonp-with-observables/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/12.routing/2.route-configuration/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/12.routing/2.route-configuration/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/12.routing/3.navigation/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/12.routing/3.navigation/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/12.routing/4.parameterised-routes/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/12.routing/4.parameterised-routes/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/12.routing/5.nested-routes/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/12.routing/5.nested-routes/script.js.map" />
-        <option value="$PROJECT_DIR$/codecraft/12.routing/6.router-guards/script.js" />
-        <option value="$PROJECT_DIR$/codecraft/12.routing/6.router-guards/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/3.classes/app/auth.service.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/3.classes/app/auth.service.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/3.classes/app/default.pipe.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/3.classes/app/auth.service.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/3.classes/app/default.pipe.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/3.classes/app/auth.service.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/3.classes/app/default.pipe.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/3.classes/app/default.pipe.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/auth.service.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/auth.service.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/login.component.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/login.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/auth.service.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/login.component.spec.alternatives.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/auth.service.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/login.component.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/login.component.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/login.component.spec.alternatives.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/5.atb/app/auth.service.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/5.atb/app/auth.service.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/5.atb/app/login.component.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/5.atb/app/login.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/5.atb/app/auth.service.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/5.atb/app/login.component.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/5.atb/app/auth.service.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/5.atb/app/login.component.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/6.change-detection/app/auth.service.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/6.change-detection/app/auth.service.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/6.change-detection/app/login.component.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/6.change-detection/app/login.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/6.change-detection/app/auth.service.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/6.change-detection/app/login.component.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/6.change-detection/app/auth.service.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/6.change-detection/app/login.component.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/7.asynchronous/app/auth.service.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/7.asynchronous/app/auth.service.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/7.asynchronous/app/login.component.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/7.asynchronous/app/login.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/7.asynchronous/app/auth.service.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/7.asynchronous/app/login.component.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/7.asynchronous/app/auth.service.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/7.asynchronous/app/login.component.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/8.dependency-injection/app/auth.service.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/8.dependency-injection/app/auth.service.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/8.dependency-injection/app/login.component.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/8.dependency-injection/app/login.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/8.dependency-injection/app/auth.service.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/8.dependency-injection/app/login.component.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/8.dependency-injection/app/auth.service.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/8.dependency-injection/app/login.component.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/9.components/app/login.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/9.components/app/login.component.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/9.components/app/login.component.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/9.components/app/login.component.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/10.directives/app/hoverfocus.directive.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/10.directives/app/hoverfocus.directive.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/10.directives/app/hoverfocus.directive.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/10.directives/app/hoverfocus.directive.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/11.model-forms/app/login.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/11.model-forms/app/login.component.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/11.model-forms/app/login.component.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/11.model-forms/app/login.component.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/12.http-and-jsonp/app/search.service.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/12.http-and-jsonp/app/search.service.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/12.http-and-jsonp/app/search.service.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/12.http-and-jsonp/app/search.service.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/13.routing/app/router.spec.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/13.routing/app/router.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/13.routing/app/router.spec.js" />
+        <option value="$PROJECT_DIR$/codecraft/13.unit-testing/13.routing/app/router.js" />
+        <option value="$PROJECT_DIR$/codecraft/14.advanced-topics/1.custom-validators/template-driven/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/14.advanced-topics/1.custom-validators/template-driven/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/14.advanced-topics/1.custom-validators/model-driven/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/14.advanced-topics/1.custom-validators/model-driven/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/14.advanced-topics/2.configurable-custom-validators/model-driven/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/14.advanced-topics/2.configurable-custom-validators/model-driven/script.js.map" />
+        <option value="$PROJECT_DIR$/codecraft/14.advanced-topics/2.configurable-custom-validators/template-driven/script.js" />
+        <option value="$PROJECT_DIR$/codecraft/14.advanced-topics/2.configurable-custom-validators/template-driven/script.js.map" />
       </list>
     </option>
   </component>
@@ -523,163 +633,497 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/2.injectors/script.ts">
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/3.classes/app/auth.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="15">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/3.classes/app/auth.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/3.classes/app/default.pipe.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           <folding>
-            <element signature="e#0#49#0" expanded="false" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/3.providers/script.ts">
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/3.classes/app/default.pipe.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-209">
-          <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+        <state relative-caret-position="105">
+          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="36" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/auth.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/login.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="3" />
           <folding>
-            <element signature="e#0#49#0" expanded="false" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/4.tokens/script.ts">
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/login.component.spec.alternatives.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="1" />
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
-            <element signature="e#0#49#0" expanded="false" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#40#89#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/5.configuring/script.ts">
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/4.mocks/app/login.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="33" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="75" selection-end-column="52" />
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="e#0#85#0" expanded="false" />
+            <element signature="e#0#40#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codecraft/10.dependency-injection-and-providers/6.comparison/script.ts">
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/5.atb/.link">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/5.atb/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/5.atb/app/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/5.atb/app/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/5.atb/app/login.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/5.atb/app/auth.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/6.change-detection/app/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/6.change-detection/app/auth.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/6.change-detection/app/login.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/7.asynchronous/app/login.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="76" column="15" lean-forward="true" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="15" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/7.asynchronous/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/6.change-detection/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/7.asynchronous/app/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/7.asynchronous/app/auth.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/7.asynchronous/app/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/6.change-detection/app/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+            <marker date="1514596340000" expanded="true" signature="142:240" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/8.dependency-injection/app/auth.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/8.dependency-injection/app/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/8.dependency-injection/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/8.dependency-injection/app/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+            <marker date="1514596341000" expanded="true" signature="142:236" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/8.dependency-injection/app/login.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/9.components/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/9.components/app/login.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/9.components/app/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/10.directives/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/10.directives/app/hoverfocus.directive.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/11.model-forms/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/10.directives/app/hoverfocus.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#81#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/11.model-forms/app/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#76#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/11.model-forms/app/login.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/12.http-and-jsonp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/12.http-and-jsonp/app/search.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/13.routing/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/13.routing/app/router.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="37" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/14.advanced-topics/1.custom-validators/model-driven/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="199" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#82#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/14.advanced-topics/1.custom-validators/template-driven/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#126#0" expanded="false" />
+            <marker date="1514596341000" expanded="true" signature="1249:4615" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="1330:2565" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="1357:1948" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="1599:1747" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="1786:1939" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="1976:2552" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="2211:2356" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="2395:2543" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="2593:3455" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="2804:2989" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="3027:3447" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="3483:4158" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="3717:3880" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="3918:4150" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="4185:4468" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="4243:4460" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="4401:4448" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="4493:4575" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/13.routing/app/router.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
           <caret line="25" column="2" lean-forward="false" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
           <folding>
-            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codecraft/11.http/2.core-http-api/script.ts">
+    <entry file="file://$PROJECT_DIR$/codecraft/13.unit-testing/12.http-and-jsonp/app/search.service.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="93" column="10" lean-forward="false" selection-start-line="93" selection-start-column="10" selection-end-line="93" selection-end-column="10" />
+        <state relative-caret-position="405">
+          <caret line="37" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
           <folding>
-            <element signature="e#0#50#0" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codecraft/11.http/3.http-example-promise/script.ts">
+    <entry file="file://$PROJECT_DIR$/codecraft/14.advanced-topics/1.custom-validators/template-driven/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-689">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecraft/14.advanced-topics/2.configurable-custom-validators/model-driven/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="225" selection-end-column="52" />
           <folding>
-            <element signature="e#0#62#0" expanded="true" />
+            <element signature="e#0#82#0" expanded="true" />
+            <marker date="1514596341000" expanded="true" signature="1301:4680" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="1363:2555" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="1392:1958" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="1645:1742" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="1784:1946" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="1988:2541" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="2234:2330" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="2372:2530" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="2584:3388" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="2800:2887" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="2927:3378" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="3416:4143" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="3656:3746" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="3786:4134" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="4171:4634" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="4420:4625" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="4558:4611" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codecraft/11.http/4.http-with-observables/script.ts">
+    <entry file="file://$PROJECT_DIR$/codecraft/14.advanced-topics/2.configurable-custom-validators/template-driven/script.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="39" />
+        <state relative-caret-position="375">
+          <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
           <folding>
-            <element signature="e#0#62#0" expanded="true" />
-            <marker date="1514431161708" expanded="true" signature="1455:1641" ph="..." />
-            <marker date="1514431161708" expanded="true" signature="1482:1633" ph="..." />
-            <marker date="1514431161708" expanded="true" signature="1508:1624" ph="..." />
-            <marker date="1514431161708" expanded="true" signature="1668:1724" ph="..." />
-            <marker date="1514431161708" expanded="true" signature="1749:1953" ph="..." />
-            <marker date="1514431161708" expanded="true" signature="1780:1947" ph="..." />
-            <marker date="1514431161708" expanded="true" signature="1884:1939" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codecraft/11.http/5.jsonp-with-observables/script.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="92" column="12" lean-forward="false" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codecraft/12.routing/2.route-configuration/script.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1281">
-          <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-            <marker date="1514431161814" expanded="true" signature="1722:2013" ph="..." />
-            <marker date="1514431161814" expanded="true" signature="1749:1880" ph="..." />
-            <marker date="1514431161814" expanded="true" signature="1775:1871" ph="..." />
-            <marker date="1514431161814" expanded="true" signature="1905:2005" ph="..." />
-            <marker date="1514431161814" expanded="true" signature="2048:2109" ph="..." />
-            <marker date="1514431161814" expanded="true" signature="2067:2102" ph="..." />
-            <marker date="1514431161814" expanded="true" signature="2135:2369" ph="..." />
-            <marker date="1514431161814" expanded="true" signature="2150:2362" ph="..." />
-            <marker date="1514431161814" expanded="true" signature="2683:2737" ph="..." />
-            <marker date="1514431161814" expanded="true" signature="2864:3135" ph="..." />
-            <marker date="1514431161814" expanded="true" signature="2951:3128" ph="..." />
-            <marker date="1514431161814" expanded="true" signature="2984:3038" ph="..." />
-            <marker date="1514431161814" expanded="true" signature="3064:3120" ph="..." />
-            <marker date="1514431161814" expanded="true" signature="3262:3307" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codecraft/12.routing/4.parameterised-routes/script.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="164" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="201" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codecraft/12.routing/3.navigation/script.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="188" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codecraft/12.routing/5.nested-routes/script.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="319" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codecraft/12.routing/6.router-guards/script.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
+            <element signature="e#0#126#0" expanded="true" />
+            <marker date="1514596341000" expanded="true" signature="3028:6413" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="3109:4344" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="3136:3727" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="3378:3526" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="3565:3718" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="3755:4331" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="3990:4135" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="4174:4322" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="4372:5253" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="4583:4787" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="4825:5245" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="5281:5956" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="5515:5678" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="5716:5948" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="5983:6266" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="6041:6258" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="6199:6246" ph="..." />
+            <marker date="1514596341000" expanded="true" signature="6291:6373" ph="..." />
           </folding>
         </state>
       </provider>
